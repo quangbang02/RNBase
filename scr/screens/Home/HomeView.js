@@ -4,6 +4,7 @@
  */
 
 import React, {useEffect} from 'react';
+import {useTranslation} from 'react-i18next';
 import {ScrollView, Text, View, SafeAreaView} from 'react-native';
 import useStyles from './HomeStyles';
 
@@ -12,6 +13,8 @@ export type Props = {
 };
 
 const HomeView = (props: Props) => {
+  const {t} = useTranslation();
+
   const styles = useStyles();
 
   useEffect(() => {}, []);
@@ -21,7 +24,7 @@ const HomeView = (props: Props) => {
       <ScrollView>
         <SafeAreaView style={styles.container}>
           <View style={styles.container}>
-            <Text style={styles.titleStyle}>Welcome!</Text>
+            <Text style={styles.titleStyle}>{t('translation:welcome')}</Text>
           </View>
         </SafeAreaView>
       </ScrollView>

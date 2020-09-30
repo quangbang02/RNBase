@@ -308,6 +308,8 @@ PODS:
     - React
   - RNDeviceInfo (5.6.5):
     - React
+  - RNGestureHandler (1.8.0):
+    - React
   - RNSVG (9.13.6):
     - React
   - Yoga (1.14.0)
@@ -367,6 +369,7 @@ DEPENDENCIES:
   - rn-fetch-blob (from `../node_modules/rn-fetch-blob`)
   - "RNCAsyncStorage (from `../node_modules/@react-native-community/async-storage`)"
   - RNDeviceInfo (from `../node_modules/react-native-device-info`)
+  - RNGestureHandler (from `../node_modules/react-native-gesture-handler`)
   - RNSVG (from `../node_modules/react-native-svg`)
   - Yoga (from `../node_modules/react-native/ReactCommon/yoga`)
 
@@ -448,6 +451,8 @@ EXTERNAL SOURCES:
     :path: "../node_modules/@react-native-community/async-storage"
   RNDeviceInfo:
     :path: "../node_modules/react-native-device-info"
+  RNGestureHandler:
+    :path: "../node_modules/react-native-gesture-handler"
   RNSVG:
     :path: "../node_modules/react-native-svg"
   Yoga:
@@ -496,6 +501,7 @@ SPEC CHECKSUMS:
   rn-fetch-blob: f065bb7ab7fb48dd002629f8bdcb0336602d3cba
   RNCAsyncStorage: 2a692bcb9b69b76a2f1a95f33db057129700af64
   RNDeviceInfo: c5f8f3a456adcbba405ace475254b08febc4c095
+  RNGestureHandler: 7a5833d0f788dbd107fbb913e09aa0c1ff333c39
   RNSVG: 8ba35cbeb385a52fd960fd28db9d7d18b4c2974f
   Yoga: 7740b94929bbacbddda59bf115b5317e9a161598
   YogaKit: f782866e155069a2cca2517aafea43200b01fd5a
