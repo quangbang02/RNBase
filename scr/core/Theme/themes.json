@@ -1,0 +1,73 @@
+[
+  {
+    "key": "default",
+    "tintColor": "#5ACE48",
+    "tintColor2": "#3A8B2D",
+    "backgroundColor": "#FFFFFF",
+    "color": "#ffffff",
+    "infoColor": "#4DA2E8",
+    "successColor": "#77CA4B",
+    "dangerColor": "#D74B4B",
+    "accentColor": "#D74B4B",
+    "activeColor": "#6ACB5A",
+    "subTextColor": "#B9BDC5",
+    "subTextColor2": "#999CA0",
+    "backgroundCancelButton": "#90A1B5",
+    "endGrandientColor": "#57BB46",
+    "borderColor": "#DBDBDE",
+    "alertTintColor": "#90A1B5",
+    "alertDangerColor": "#D74B4B",
+    "gradientStaticColor": "#57BB46",
+    "inputOTPColor": "#F5F4F4"
+  },
+  {
+    "key": "MAASTRICHT BLUE",
+    "tintColor": "#011627",
+    "backgroundColor": "#011627",
+    "color": "#ffffff",
+    "infoColor": "#4DA2E8",
+    "successColor": "#77CA4B",
+    "dangerColor": "#D74B4B",
+    "accentColor": "#D74B4B"
+  },
+  {
+    "key": "DEEP ORANGE",
+    "tintColor": "#ff5722",
+    "backgroundColor": "#ff5722",
+    "color": "#ffffff",
+    "infoColor": "#4DA2E8",
+    "successColor": "#77CA4B",
+    "dangerColor": "#D74B4B",
+    "accentColor": "#D74B4B"
+  },
+  {
+    "key": "MAXIMUM BLUE GREEN",
+    "tintColor": "#2EC4B6",
+    "backgroundColor": "#2EC4B6",
+    "color": "#ffffff",
+    "infoColor": "#4DA2E8",
+    "successColor": "#77CA4B",
+    "dangerColor": "#D74B4B",
+    "accentColor": "#D74B4B"
+  },
+  {
+    "key": "ROSE MADDER",
+    "tintColor": "#E71D36",
+    "backgroundColor": "#E71D36",
+    "color": "#ffffff",
+    "infoColor": "#4DA2E8",
+    "successColor": "#77CA4B",
+    "dangerColor": "#D74B4B",
+    "accentColor": "#D74B4B"
+  },
+  {
+    "key": "BRIGHT YELLOW (CRAYOLA)",
+    "tintColor": "#FF9F1C",
+    "backgroundColor": "#FF9F1C",
+    "color": "#1F2D3D",
+    "infoColor": "#4DA2E8",
+    "successColor": "#77CA4B",
+    "dangerColor": "#D74B4B",
+    "accentColor": "#D74B4B"
+  }
+]

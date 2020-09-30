@@ -1,0 +1,10 @@
+{
+  "translation": {
+    "welcome": "Welcome"
+  },
+  "signIn": {
+    "signIn": "SignIn",
+    "username": "Username",
+    "password": "Password"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "translation": {
+    "welcome": "Xin chào",
+    "on": "Bật",
+    "off": "Tắt",
+    "ok": "Đồng ý",
+    "cancel": "Bỏ qua",
+    "10s": "10s",
+    "usingNow": "Sử dụng ngay",
+    "20s": "20s",
+    "notification": "Thông báo",
+    "signIn": "Đăng nhập"
+  },
+  "contactSupport": {
+    "title": "Liên hệ hỗ trợ",
+    "email": "Email",
+    "hotline": "Hotline"
+  }
+}
